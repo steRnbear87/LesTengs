@@ -7,7 +7,7 @@ import ProductMadeOf from './ProductMadeOf/ProductMadeOf';
 
 const Product = (props) => {
 
-    // Show available shoes sizes 
+    
     const productSize = Object.entries(props.size)
     .map((sizKey, index) => {
         if(sizKey[1] !== 0) {
@@ -26,7 +26,7 @@ const Product = (props) => {
         <div>
             {productSize}
         </div>
-        <button className='btnShoeMadeOf'>Made off</button>
+        <button className='btnShoeMadeOf'>Composition</button>
         <ProductMadeOf
             class={props.class}
             upper={props.madeOf.upper}

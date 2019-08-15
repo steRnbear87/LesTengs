@@ -10,7 +10,7 @@
     position: fixed;
     overflow: hidden;
     width: 100vw;
-    background-color: white;
+    background-color: rgb(247, 247, 252);
     z-index:450;
     top:0;
 }
@@ -39,7 +39,7 @@ li {
 
 a  {
     text-decoration: none;
-    color: black;
+    color: rgb(10, 10, 10);
     outline: none;
 }
 
@@ -70,10 +70,12 @@ a  {
 
 .Logo {
     padding: 10px;
+    background-color: #1316ad;
+    border-radius: 49% 51% 58% 42% / 35% 74% 26% 65%;
 }
 
 .Logo:hover {
-    color:white;
+    color:rgb(245, 245, 248);
     border-radius: 49% 51% 58% 42% / 35% 74% 26% 65%;
     background-color: #097432;
 }

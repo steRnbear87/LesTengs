@@ -120,7 +120,7 @@ class Checkout extends Component {
             this.setState({loading: false});
             this.props.cartDeleteHandler();
             this.props.onUpdateCart();
-            //to do - render success component
+            
         })
         .then ( () => this.props.history.replace('/'))
         .catch (error => {
@@ -160,7 +160,6 @@ class Checkout extends Component {
         return isValid;
     }
 
-    // User input will update state and present input to form
     inputChangeHandler= (event, inputIdentifier) => {
         const updatedCustomerData = {
             ...this.state.CustomerData
@@ -180,7 +179,7 @@ class Checkout extends Component {
         this.setState({CustomerData: updatedCustomerData, formIsValid:formIsValid})
     }
 
-        // redirect to /Cart if user want to edit cart  // 
+
     handleCartEdit = () => {
         this.props.history.replace('/Cart');
     }

@@ -30,7 +30,7 @@ export const fetchLocalStoreCart = () => {
         let localCartProducts = JSON.parse(localStorage.getItem('addToCart'))
 
         if (localCartProducts) {
-            //calculating Cart Full Price
+           
         let allCartPrices = Object.values(localCartProducts);
         let fullCartPrice = 0;
         for (let i = 0; i < allCartPrices.length; i++) {
@@ -53,10 +53,10 @@ export const deleteFromCart = (event) => {
         let prevLocalCart = JSON.parse(localStorage.getItem('addToCart'));
         let cartProductId = event.currentTarget.value;
         prevLocalCart.splice(cartProductId ,1);
-        // Cart Counter decrease 
+        
         let cartCounterDel = (Object.keys(prevLocalCart).length);
         dispatch (deleteFromCartStore (cartCounterDel));
         localStorage.setItem('addToCart', JSON.stringify(prevLocalCart));
-        // dispatch(deleteFromCartStore(event));
+        
     };
 }

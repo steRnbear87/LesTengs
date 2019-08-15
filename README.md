@@ -1,8 +1,8 @@
-Marketplace webapp build using React / Redux with Firebase on backend.
+Marketplace webapp build using React / Redux.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
 [Link to demo](https://github.com/steRnbear87/LesTengs.git)
 
-Test account: ben@test.io
+Test account: ben@test.io <br>
 Password: 123456
 
 ## Available Scripts
@@ -22,13 +22,13 @@ You will also see any lint errors in the console.
 
 -   "axios": "^0.18.0",
 -   "react": "^16.8.6",
--    "react-dom": "^16.8.6",
--    "react-redux": "^7.0.2",
+-   "react-dom": "^16.8.6",
+-   "react-redux": "^7.0.2",
 -   "react-router-dom": "^5.0.0",
--    "react-scripts": "2.1.8",
--    "react-transition-group": "^4.0.1",
--    "redux": "^4.0.1",
--    "redux-thunk": "^2.3.0"
+-   "react-scripts": "2.1.8",
+-   "react-transition-group": "^4.0.1",
+-   "redux": "^4.0.1",
+-   "redux-thunk": "^2.3.0"
 
 
 

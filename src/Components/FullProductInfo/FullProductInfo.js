@@ -105,7 +105,7 @@ class FullProductInfo extends Component {
             if(sizKey[1] === 0) {
             return (<button className="ShoeNotAvailableSize" disabled key={i} >{sizKey[0]}</button>);
             }else {
-             let checkIfClicked = this.state.size === sizKey[0]? 'ShoeAvailableSizeBtnActive': 'ShoeAvailableSizeBtn' //  Dynamically change Css class if button clicked
+             let checkIfClicked = this.state.size === sizKey[0]? 'ShoeAvailableSizeBtnActive': 'ShoeAvailableSizeBtn' 
             return (<button className={checkIfClicked} onClick={() => {this.selectSizeHandler(sizKey)}} key={i} >{sizKey[0]}</button>);
         }}) 
 
@@ -136,7 +136,7 @@ class FullProductInfo extends Component {
                 <span><h2>{this.props.model}</h2></span>   
                 <h4>Product id: {this.props.id} </h4>
                 <p>{this.props.description}</p>
-                <Button btnType='madeOf' clicked={this.showMadeOf}>Made off:</Button>
+                <Button btnType='madeOf' clicked={this.showMadeOf}>Composition:</Button>
                 <h3>Chose your size</h3>
                 <div className='ProductSize'>{productSize }</div>
                 {addToCartBtn}
