@@ -1,0 +1,87 @@
+.Button  {
+    border: 1px solid #0d28c2;
+    background-color: #0d28c2;
+    border-radius: 25px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px;
+    cursor: pointer;
+}
+.Button:hover  {
+background-color: #8e24aa ;
+border: 1px solid #8e24aa;
+}
+
+.Button:disabled {
+background-color: #eeeeee;
+border: 1px solid  #eeeeee;
+color: black;
+pointer-events: none;
+}
+
+.Button:disabled :hover {
+background-color:  #eeeeee ;
+border: 1px solid  #eeeeee;
+pointer-events: none;
+}
+
+.editCartBtn {
+    margin:0;
+}
+.ShoeNotAvailableSize {
+    text-decoration: line-through;
+    display: inline-flex;
+    /* border: 1px solid #2116be; */
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 25px;
+    /* color: #2116be; */
+    background-color: white;
+}
+
+.ShoeAvailableSizeBtn {
+    display: inline-flex;
+    border: 1px solid #2116be;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 25px;
+    color: #2116be;
+    cursor: pointer;
+}
+
+.ShoeAvailableSizeBtnActive {
+    display: inline-flex;
+    border: 1px solid #2116be;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: #2116be;
+    color: white;
+}
+
+.Danger {
+    border: 1px solid #4a148c;
+    background-color: white;
+    border-radius: 25px;
+    color: #4a148c;
+    padding: 10px 15px;
+    margin: 10px;
+    cursor: pointer;
+}
+.Danger:hover {
+    background-color: #4a148c;
+    color: white;
+    cursor: pointer;
+}
+
+@media (max-width:600px) {
+    .madeOf {
+        order: -1;
+        padding: 10px;
+        left:0;
+        top:0;
+        position:absolute;
+        font-size: 12px;
+    }
+}

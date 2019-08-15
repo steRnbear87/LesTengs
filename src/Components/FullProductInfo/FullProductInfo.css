@@ -1,0 +1,143 @@
+.FullProductCard {
+    text-align: center;
+    width: 100%;
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    margin:auto;    
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: stretch;
+    justify-content: center;
+}
+
+.FullPriceTag {
+    padding: 10px;
+    margin: 0;
+    left: 0;
+    background-color:#1d1ac9;
+    color: white;
+    font-weight: 400;
+    position: absolute;
+    border-radius: 0% 100% 30% 70% / 44% 61% 39% 56%  ;
+  }
+
+  .FullProductImage {
+      text-align: center;
+      flex: 100%;
+      max-width: 100%;
+      max-height: 80%; 
+  }
+  
+  .FullProductLeft {
+    flex: 48%;
+    max-width: 38vw;
+    padding: 0 10px;
+    text-align: center;
+    background-color: #F6F6F6;
+    position: relative;
+  }
+
+  .FullProductRigth {
+    flex: 48%;
+    max-width: 38vw;
+    padding: 0 10px;
+    margin:0 auto;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    display: flex;
+  } 
+
+.ProductSize{
+    padding: 20px;
+}
+
+  label {
+      font-size: 1.25rem;
+  }
+
+  .ShoeNotAvailableSize {
+    text-decoration: line-through;
+    display: inline-flex;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 25px;
+    background-color: white;
+  }
+
+  .ShoeAvailableSizeBtn {
+      display: inline-flex;
+      border: 1px solid #120fc0;
+      padding: 5px 10px;
+      margin: 5px;
+      border-radius: 25px;
+      color: #1a0ab1;
+      cursor: pointer;
+  }
+
+  .ShoeAvailableSizeBtn:hover {
+    background-color: #3124aa ;
+    border: 1px solid #1f0eb6;
+    color:white;
+  }
+
+  .ShoeAvailableSizeBtnActive {
+    display: inline-flex;
+    border: 1px solid #1412b6;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: #2c11c0;
+    color: white;
+}
+
+.productAddedImg {
+  height: 150px;
+  margin: auto;
+  text-align: center;
+  padding: 20px 
+}
+
+.close {
+  position: absolute;
+  right: 32px;
+  top: 32px;
+  width: 32px;
+  height: 32px;
+  opacity: 0.3;
+  z-index: 1;
+}
+.close:hover {
+  opacity: 1;
+}
+.close:before, .close:after {
+  position: absolute;
+  left: 15px;
+  content: ' ';
+  height: 33px;
+  width: 2px;
+  background-color: #333;
+}
+.close:before {
+  transform: rotate(45deg);
+}
+.close:after {
+  transform: rotate(-45deg);
+}
+
+@media (max-width: 657px) {
+  .FullProductCard{
+    display: block;
+    margin: 0 auto;
+  }
+  .FullProductImage , .FullProductLeft, .FullProductRigth {
+    padding: 0;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  .FullProductRigth {
+    padding: 0 10px 20px;
+    position: relative;
+  }
+}
+

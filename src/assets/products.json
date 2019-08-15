@@ -1,0 +1,604 @@
+{ 
+    "Products":  [
+        {
+                "id": 1,
+                "brand": "Nike",
+                "model": "Free x Metcon M",
+                "price": 150, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/pl689uvafiyu8oh1mmtl/free-x-metcon-cross-training-weightlifting-shoe-VKoLdD.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 0,
+                    "40": 12,
+                    "41": 20,
+                    "42": 18, 
+                    "43": 5,
+                    "44": 1,
+                    "45": 0
+                },
+                "type": "Sports Shoes",
+                "color": "Black",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+        {
+            "id": 2,
+            "brand": "Nike",
+            "model": "Air Force 1 07",
+            "price": 199, 
+            "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+            "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/gsuin11ptg5qgktmzoat/buty-air-force-1-07-v2TERGb4.jpg",
+            "size": {
+                "7": 0,
+                "8": 0,
+                "40": 30,
+                "41": 15,
+                "42": 4, 
+                "43": 1,
+                "44": 1,
+                "45": 0
+            },
+            "type": "Sports Shoes",
+            "color": "White",
+            "madeOf": {
+                "upper": "Leather",
+                "lining": "Textile",
+                "outerSole": "Leather"
+                }
+            },
+            {
+                "id": 3,
+                "brand": "Nike",
+                "model": "Air Max 95 LE",
+                "price": 189, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://runcolors.pl/product_picture/full_size/air_max_95_le_gs_310830-015_nike_310830-015_2.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 0,
+                    "40": 0,
+                    "41": 15,
+                    "42": 0, 
+                    "43": 1,
+                    "44": 0,
+                    "45": 0
+                },
+                "type": "Sports Shoes",
+                "color": "White",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Leather"
+                }
+            },
+            {
+                "id": 4,
+                "brand": "Nike",
+                "model": "React Element 55",
+                "price": 170, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/pystsgsdlvbgebpz3lyv/buty-meskie-react-element-55-M7q7kp.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 0,
+                    "41": 15,
+                    "42": 0, 
+                    "43": 1,
+                    "44": 5,
+                    "45": 10
+                },
+                "type": "Lifestyle",
+                "color": "Grey",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 5,
+                "brand": "Nike",
+                "model": "Air Force 1 High '07 3",
+                "price": 149, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/xwcmhmn5guca3vxl9haa/buty-meskie-air-force-1-high-07-3-jSxMRB.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 8,
+                    "41": 0,
+                    "42": 10, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "White",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 6,
+                "brand": "Nike",
+                "model": "Viale",
+                "price": 169, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/lyt3fz24hhr5k0erv5km/buty-meskie-viale-jqSLbl.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 8,
+                    "41": 0,
+                    "42": 0, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "Black",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 7,
+                "brand": "Nike",
+                "model": "Air Jordan 1",
+                "price": 190, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/rzpli83loodbuwelpcpv/air-jordan-1-black-hyper-pink-release-date.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 8,
+                    "41": 0,
+                    "42": 0, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "Black",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 8,
+                "brand": "Nike",
+                "model": "Air Max 97 On Air Cash Ru",
+                "price": 240, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/gdrnlhrusghnd1gdd4zh/buty-air-max-97-on-air-cash-ru-Crr5WX.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 8,
+                    "41": 0,
+                    "42": 0, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "Blue",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 9,
+                "brand": "Nike",
+                "model": "Jordan 6 Rings",
+                "price": 210, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/xevwwyg7ilyccpfdktq4/buty-meskie-jordan-6-rings-P2qkgn.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 8,
+                    "41": 0,
+                    "42": 0, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "White",
+                "madeOf": {
+                    "upper": "Leather",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 10,
+                "brand": "Nike",
+                "model": "SB Zoom Stefan Janoski Canvas Premium",
+                "price": 230, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/u8ysdzf6zcr8juq9xizh/meskie-buty-do-skateboardingu-sb-zoom-stefan-janoski-canvas-STShqV.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 0,
+                    "41": 5,
+                    "42": 2, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "Brown",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 11,
+                "brand": "Nike",
+                "model": "Air Zoom Pegasus 35",
+                "price": 130, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/etqmjg6oskjgfyfnnduu/meskie-buty-do-biegania-air-zoom-pegasus-35-kX9NZL.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 5,
+                    "41": 5,
+                    "42": 2, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Running",
+                "color": "Brown",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 12,
+                "brand": "Nike",
+                "model": "Air Zoom Terra Kiger 4",
+                "price": 147, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ug9zcipbmpta8rm1sk6e/meskie-buty-do-biegania-air-zoom-terra-kiger-4-KxH8L9.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 4,
+                    "40": 5,
+                    "41": 5,
+                    "42": 2, 
+                    "43": 12,
+                    "44": 5,
+                    "45": 0
+                },
+                "type": "Running",
+                "color": "Grey",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 13,
+                "brand": "Nike",
+                "model": "Nike Vaporfly 4% Flyknit",
+                "price": 177, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/rlpfdp3vppliikmmv5lp/buty-do-biegania-vaporfly-4-flyknit-clJ76q.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 3,
+                    "40": 5,
+                    "41": 0,
+                    "42": 2, 
+                    "43": 6,
+                    "44": 0,
+                    "45": 0
+                },
+                "type": "Running",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 14,
+                "brand": "Nike",
+                "model": "Nike Epic React Flyknit 2",
+                "price": 143, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/lerifbk0kfytxxdmhmlg/meskie-buty-do-biegania-epic-react-flyknit-2-B01C0P.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 0,
+                    "40": 0,
+                    "41": 1,
+                    "42": 2, 
+                    "43": 6,
+                    "44": 0,
+                    "45": 0
+                },
+                "type": "Running",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 15,
+                "brand": "Nike",
+                "model": "Nike Revolution 4 FlyEase",
+                "price": 100, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/tuimo4qjeyswixfe698v/meskie-buty-do-biegania-revolution-4-flyease-LGwZNC.jpg",
+                "size": {
+                    "7": 4,
+                    "8": 3,
+                    "40": 0,
+                    "41": 1,
+                    "42": 2, 
+                    "43": 6,
+                    "44": 8,
+                    "45": 4
+                },
+                "type": "Running",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 16,
+                "brand": "Nike",
+                "model": "Nike Zoom Matumbo 3",
+                "price": 120, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/zhljd5zhma65cjuueq4q/kolce-biegowe-uniseks-zoom-matumbo-3-2n2wxv.jpg",
+                "size": {
+                    "7": 4,
+                    "8": 3,
+                    "40": 0,
+                    "41": 6,
+                    "42": 0, 
+                    "43": 6,
+                    "44": 4,
+                    "45": 4
+                },
+                "type": "Running",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 17,
+                "brand": "Nike",
+                "model": "Nike Zoom Rival D 10",
+                "price": 230, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/evry7xqsxrvkzjxfuow5/kolce-uniseks-zoom-rival-d-10-fPjSrh.jpg",
+                "size": {
+                    "7": 4,
+                    "8": 3,
+                    "40": 5,
+                    "41": 6,
+                    "42": 0, 
+                    "43": 6,
+                    "44": 0,
+                    "45": 4
+                },
+                "type": "Running",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 18,
+                "brand": "Nike",
+                "model": "Nike Air Zoom Streak 7",
+                "price": 154, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ak2bkuuhmpxpodceiyhd/buty-do-biegania-air-zoom-streak-7-WWjRsf.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 3,
+                    "40": 0,
+                    "41": 6,
+                    "42": 0, 
+                    "43": 5,
+                    "44": 2,
+                    "45": 4
+                },
+                "type": "Running",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 19,
+                "brand": "Nike",
+                "model": "Jordan Proto-Max 720",
+                "price": 300, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/yw5idvbk9wcm0jfiomw1/buty-meskie-jordan-proto-max-720-KKm08p.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 3,
+                    "40": 4,
+                    "41": 6,
+                    "42": 4, 
+                    "43": 5,
+                    "44": 2,
+                    "45": 4
+                },
+                "type": "Lifestyle",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 20,
+                "brand": "Nike",
+                "model": "Nike Air Max 95 Essential",
+                "price": 260, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/euzraxbr414nhptewxd1/buty-meskie-air-max-95-essential-QBVJFM.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 3,
+                    "40": 4,
+                    "41": 0,
+                    "42": 4, 
+                    "43": 0,
+                    "44": 2,
+                    "45": 4
+                },
+                "type": "Lifestyle",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 21,
+                "brand": "Nike",
+                "model": "Air Jordan 1 Low",
+                "price": 186, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/odkn18frk94ntniqie94/buty-meskie-air-jordan-1-low-cg6PcM.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 3,
+                    "40": 4,
+                    "41": 0,
+                    "42": 4, 
+                    "43": 5,
+                    "44": 2,
+                    "45": 4
+                },
+                "type": "Lifestyle",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 22,
+                "brand": "Nike",
+                "model": "Air Jordan 1 Mid SE",
+                "price": 186, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/vda5cgk5pxcmjqhlzaut/buty-meskie-air-jordan-1-mid-se-Lp4qTN.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 3,
+                    "40": 4,
+                    "41": 0,
+                    "42": 0, 
+                    "43": 5,
+                    "44": 2,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 23,
+                "brand": "Nike",
+                "model": "Nike Moon Racer QS",
+                "price": 210, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/lheuqrgfc92bkclb1w3k/buty-meskie-moon-racer-qs-kL6xz1.jpg",
+                "size": {
+                    "7": 2,
+                    "8": 0,
+                    "40": 4,
+                    "41": 0,
+                    "42": 3, 
+                    "43": 5,
+                    "44": 0,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            },
+            {
+                "id": 24,
+                "brand": "Nike",
+                "model": "Air VaporMax Premier Flyknit",
+                "price": 320, 
+                "description": "Lorem ipsum dolor sit amet, vocent petentium adipiscing ne nam, ad quo tritani indoctum, eu cibo melius adipisci sit. Postulant dignissim eloquentiam ad vel, vim at meis legimus tincidunt. Ex audire antiopam periculis est, sit ne etiam persius. Vim dicta noster omnesque ut, eu amet cetero lucilius duo. Sit in amet ocurreret complectitur.",
+                "image": "https://c.static-nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/otidfjvcelgmtih8vppe/meskie-buty-air-vapormax-premier-flyknit-MwFlzK.jpg",
+                "size": {
+                    "7": 0,
+                    "8": 0,
+                    "40": 4,
+                    "41": 4,
+                    "42": 3, 
+                    "43": 5,
+                    "44": 0,
+                    "45": 0
+                },
+                "type": "Lifestyle",
+                "color": "Red",
+                "madeOf": {
+                    "upper": "Textile",
+                    "lining": "Textile",
+                    "outerSole": "Rubber"
+                }
+            }
+    ]
+}

@@ -1,0 +1,33 @@
+.ShoeDisplayer {
+    display: flex;
+    justify-content:center;
+    width: auto;
+    height: auto;
+    flex-wrap: wrap;
+}
+
+.load-more {
+    border: 1px solid #4a148c;
+    background-color: #4a148c;
+    border-radius: 25px;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.load-more:hover {
+    background-color: #2116be ;
+    border: 1px solid #2116be;
+}
+
+
+ /* @media (max-width: 696px) {
+    .ShoeDisplayer {
+        width:100%;
+    display: block;
+        margin: auto;
+        text-align: center;
+    }
+}  */
+
